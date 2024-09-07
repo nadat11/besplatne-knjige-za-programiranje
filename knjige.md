@@ -716,15 +716,7 @@
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
 * [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
-===========================================================================
 
-[JEETT.pdf](https://github.com/user-attachments/files/16918489/JEETT.pdf)
-
-
-
-
-
-==========================================================================
 ### APL
 
 * [A Practical Introduction to APL1 & APL2](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
@@ -2259,3 +2251,15 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour)
 * [CA-Clipper 5.2 Norton Guide](http://www.ousob.com/ng/clguide/)
 * [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s))
+
+
+
+===========================================================================
+
+[JEETT.pdf](https://github.com/user-attachments/files/16918489/JEETT.pdf)
+
+
+
+
+
+==========================================================================
